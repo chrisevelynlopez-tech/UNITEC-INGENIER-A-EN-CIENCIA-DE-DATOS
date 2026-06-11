@@ -57,7 +57,7 @@ Mide qué tan dispersos están los datos respecto al promedio.
 
 ## Ejemplo de código en Python
 
-python
+```python
 # Importamos la biblioteca pandas para trabajar con datos
 import pandas as pd
 
